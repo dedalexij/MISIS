@@ -1,0 +1,11 @@
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\bin\Debug\netcoreapp2.0\Graph.deps.json
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\bin\Debug\netcoreapp2.0\Graph.runtimeconfig.json
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\bin\Debug\netcoreapp2.0\Graph.runtimeconfig.dev.json
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\bin\Debug\netcoreapp2.0\Graph.dll
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\bin\Debug\netcoreapp2.0\Graph.pdb
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\obj\Debug\netcoreapp2.0\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\obj\Debug\netcoreapp2.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfoInputs.cache
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfo.cs
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\obj\Debug\netcoreapp2.0\Graph.dll
+C:\Users\Ded\Desktop\MISIS\Algorithms\Graph\obj\Debug\netcoreapp2.0\Graph.pdb
