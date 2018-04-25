@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/test.cpp.dir/TransactionManager.cpp.o CMakeFiles/test.cpp.dir/test.cpp.o  -o test.cpp 

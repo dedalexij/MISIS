@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/TransactionManager.cpp
+cstring
+-
+cstdio
+-
+iostream
+-
+memory
+-
+stdexcept
+-
+string
+-
+array
+-
+TransactionManager.h
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/TransactionManager.h
+
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/TransactionManager.h
+array
+-
+
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/test.cpp
+TransactionManager.h
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/TransactionManager.h
+iostream
+-
+

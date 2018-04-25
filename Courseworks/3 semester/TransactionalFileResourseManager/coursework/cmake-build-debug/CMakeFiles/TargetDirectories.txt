@@ -1,0 +1,4 @@
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/cmake-build-debug/CMakeFiles/coursework.dir
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dedalexij/prog/MISIS/Courseworks/3 semester/TransactionalFileResourseManager/coursework/cmake-build-debug/CMakeFiles/test.cpp.dir

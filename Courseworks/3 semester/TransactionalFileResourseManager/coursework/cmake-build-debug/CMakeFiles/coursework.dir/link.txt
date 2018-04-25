@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcoursework.a  CMakeFiles/coursework.dir/TransactionManager.cpp.o CMakeFiles/coursework.dir/test.cpp.o
+/usr/bin/ranlib libcoursework.a
