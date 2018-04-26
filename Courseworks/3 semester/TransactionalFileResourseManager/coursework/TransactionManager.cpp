@@ -26,7 +26,7 @@ string TransactionManager::locks()
 	return exec(result.c_str());
 }
 
-void TransactionManager::lock(const string file)
+bool TransactionManager::lock(const string file)
 {
 	string cd("cd ");
 	string cdPath = cd + _path;
@@ -34,10 +34,13 @@ void TransactionManager::lock(const string file)
 	string cdPathComm = cdPath + command;
 	string fullCommand = cdPathComm + file;
 
-	system(fullCommand.c_str());
+	string result = exec(fullCommand.c_str());
+
+	return result.find("Loked") != string::npos;
+
 }
 
-void TransactionManager::unlock(const string file){
+bool TransactionManager::unlock(const string file){
 
 	string cd("cd ");
 	string cdPath = cd + _path;
@@ -45,7 +48,9 @@ void TransactionManager::unlock(const string file){
 	string cdPathComm = cdPath + command;
 	string fullCommand = cdPathComm + file;
 
-	system(fullCommand.c_str());
+	string result = exec(fullCommand.c_str());
+
+	return result.find("Unloked") != string::npos;
 }
 
 string TransactionManager::exec(const char *cmd){
